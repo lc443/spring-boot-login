@@ -1,2 +1,2 @@
 # spring-boot-login
-## Te application allows users to create account and login
+### The application allows users to create account and login
